@@ -1,5 +1,5 @@
 # Hit-and-Trial-Demo
 This is my Git Repository.
 <br>
-Author-Sima Pradhan
+Author-Sima Pradhan(IILM UNIVERSITY)
 
